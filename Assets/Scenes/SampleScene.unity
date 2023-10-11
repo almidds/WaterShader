@@ -1070,7 +1070,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 3f67e1e222383eb48aebe5e03cd10b92, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 78a10d44539f4454a9ec890d83edd8c9, type: 2}
     - target: {fileID: 919132149155446097, guid: 3f67e1e222383eb48aebe5e03cd10b92, type: 3}
       propertyPath: m_Name
       value: couchcoin
